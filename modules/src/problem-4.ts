@@ -30,9 +30,9 @@ type Circle = {
     return 0;
   }
   
-
+//sample Input1:
  calculateShapeArea({ shape: "circle", radius: 5 });
-
+//sample Input:2
 calculateShapeArea({ shape: "rectangle", width: 4, height: 6 });
 
   
