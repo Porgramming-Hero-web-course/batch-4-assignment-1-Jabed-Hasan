@@ -8,5 +8,5 @@ function sumArray(numbers: number[]): number {
     return sum;
 }
 
-
+//Sample Input
 sumArray([1, 2, 3, 4, 5]);

@@ -16,6 +16,7 @@ class Car {
     }
   }
   
+  //Samle Input
   const car = new Car("Honda", "Civic", 2018);
   car.getCarAge(); 
   
